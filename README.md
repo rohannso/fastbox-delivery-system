@@ -85,7 +85,7 @@ fastbox-delivery-system/
 │   └── performance_*.csv
 │
 ├── README.md                   # Project documentation
-├── ASSUMPTIONS.md              # Design decisions           # Dependencies (none)
+├── ASSUMPTIONS.md              # Design decisions        
 └── .gitignore                  # Git ignore rules
 ```
 ## 🧮 Algorithm Design
