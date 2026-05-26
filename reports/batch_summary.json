@@ -1,0 +1,68 @@
+{
+  "total_tests": 10,
+  "successful": 10,
+  "failed": 0,
+  "execution_time": 0.26751160621643066,
+  "results": [
+    {
+      "test_case": "test_case_1.json",
+      "status": "Success",
+      "best_agent": "A1",
+      "report_file": "reports/report_test_case_1.json"
+    },
+    {
+      "test_case": "test_case_10.json",
+      "status": "Success",
+      "best_agent": "A4",
+      "report_file": "reports/report_test_case_10.json"
+    },
+    {
+      "test_case": "test_case_2.json",
+      "status": "Success",
+      "best_agent": "A1",
+      "report_file": "reports/report_test_case_2.json"
+    },
+    {
+      "test_case": "test_case_3.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_3.json"
+    },
+    {
+      "test_case": "test_case_4.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_4.json"
+    },
+    {
+      "test_case": "test_case_5.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_5.json"
+    },
+    {
+      "test_case": "test_case_6.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_6.json"
+    },
+    {
+      "test_case": "test_case_7.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_7.json"
+    },
+    {
+      "test_case": "test_case_8.json",
+      "status": "Success",
+      "best_agent": "A1",
+      "report_file": "reports/report_test_case_8.json"
+    },
+    {
+      "test_case": "test_case_9.json",
+      "status": "Success",
+      "best_agent": "A3",
+      "report_file": "reports/report_test_case_9.json"
+    }
+  ]
+}
