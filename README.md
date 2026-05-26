@@ -66,19 +66,29 @@ This project simulates one day of delivery operations for FastBox, a fictional d
 - ✅ Performance metrics
 
 ## 📁 Project Structure
+
+```
 fastbox-delivery-system/
+│
 ├── delivery_simulator.py       # Main simulation engine
 ├── run_all_tests.py            # Batch test runner
-├── test_cases/                 # Input JSON test files (10 cases)
+│
+├── test_cases/                 # Input JSON test files (10 files)
+│   └── test_case_*.json
+│
 ├── reports/                    # Generated JSON reports
-├── outputs/                    # CSV exports and visualizations
-├── README.md                   # This file
-├── ASSUMPTIONS.md              # Design decisions documentation
-├── requirements.txt            # Python dependencies
+│   ├── report_*.json
+│   └── batch_summary.json
+│
+├── outputs/                    # CSV exports & visualizations
+│   ├── visualization_*.txt
+│   └── performance_*.csv
+│
+├── README.md                   # Project documentation
+├── ASSUMPTIONS.md              # Design decisions
+├── requirements.txt            # Dependencies (none)
 └── .gitignore                  # Git ignore rules
-
-
-asv
+```
 ## 🧮 Algorithm Design
 
 ### Package Assignment Logic
